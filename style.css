@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'babilonia-icon';
+  src:  url('fonts/babilonia-icon.eot?3acd1v');
+  src:  url('fonts/babilonia-icon.eot?3acd1v#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?3acd1v') format('truetype'),
+    url('fonts/babilonia-icon.woff?3acd1v') format('woff'),
+    url('fonts/babilonia-icon.svg?3acd1v#babilonia-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="babilonia-"], [class*=" babilonia-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'babilonia-icon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.babilonia-mail-open-outline:before {
+  content: "\e925";
+}
+.babilonia-refresh:before {
+  content: "\e923";
+}
+.babilonia-heart-outline:before {
+  content: "\e924";
+}
+.babilonia-whatsapp-outline:before {
+  content: "\e926";
+}
+.babilonia-phone-outline:before {
+  content: "\e927";
+}
+.babilonia-trash:before {
+  content: "\e91b";
+}
+.babilonia-phone-2:before {
+  content: "\e91c";
+}
+.babilonia-heart:before {
+  content: "\e91d";
+}
+.babilonia-eye-open:before {
+  content: "\e91e";
+}
+.babilonia-area:before {
+  content: "\e91f";
+}
+.babilonia-bath:before {
+  content: "\e920";
+}
+.babilonia-bed:before {
+  content: "\e921";
+}
+.babilonia-home-2:before {
+  content: "\e922";
+}
+.babilonia-home:before {
+  content: "\e916";
+}
+.babilonia-people:before {
+  content: "\e917";
+}
+.babilonia-collections:before {
+  content: "\e918";
+}
+.babilonia-stadistics:before {
+  content: "\e919";
+}
+.babilonia-resume:before {
+  content: "\e91a";
+}
+.babilonia-medal-plus:before {
+  content: "\e914";
+}
+.babilonia-medal-premium:before {
+  content: "\e915";
+}
+.babilonia-angle-up:before {
+  content: "\e912";
+}
+.babilonia-angle-down:before {
+  content: "\e913";
+}
+.babilonia-whatsapp:before {
+  content: "\e90f";
+}
+.babilonia-mail:before {
+  content: "\e910";
+}
+.babilonia-phone-fill:before {
+  content: "\e911";
+}
+.babilonia-current-position:before {
+  content: "\e90e";
+}
+.babilonia-check:before {
+  content: "\e909";
+}
+.babilonia-star-outline:before {
+  content: "\e90a";
+}
+.babilonia-star:before {
+  content: "\e90b";
+}
+.babilonia-hand-keys:before {
+  content: "\e90c";
+}
+.babilonia-house:before {
+  content: "\e90d";
+}
+.babilonia-unpublish-icon:before {
+  content: "\e903";
+}
+.babilonia-chart-up-icon:before {
+  content: "\e904";
+}
+.babilonia-person-icon:before {
+  content: "\e905";
+}
+.babilonia-camera-line-icon:before {
+  content: "\e906";
+}
+.babilonia-edit-icon:before {
+  content: "\e907";
+}
+.babilonia-share-icon:before {
+  content: "\e908";
+}
+.babilonia-360-icon:before {
+  content: "\e900";
+}
+.babilonia-video-icon:before {
+  content: "\e901";
+}
+.babilonia-camera-icon:before {
+  content: "\e902";
+}
