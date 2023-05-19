@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?3acd1v');
-  src:  url('fonts/babilonia-icon.eot?3acd1v#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?3acd1v') format('truetype'),
-    url('fonts/babilonia-icon.woff?3acd1v') format('woff'),
-    url('fonts/babilonia-icon.svg?3acd1v#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?pmwaqy');
+  src:  url('fonts/babilonia-icon.eot?pmwaqy#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?pmwaqy') format('truetype'),
+    url('fonts/babilonia-icon.woff?pmwaqy') format('woff'),
+    url('fonts/babilonia-icon.svg?pmwaqy#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-apartment:before {
+  content: "\e928";
+}
 .babilonia-mail-open-outline:before {
   content: "\e925";
 }

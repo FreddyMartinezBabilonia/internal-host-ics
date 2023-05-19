@@ -13,6 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'babilonia-icon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'babilonia-apartment': '&#xe928;',
 		'babilonia-mail-open-outline': '&#xe925;',
 		'babilonia-refresh': '&#xe923;',
 		'babilonia-heart-outline': '&#xe924;',
