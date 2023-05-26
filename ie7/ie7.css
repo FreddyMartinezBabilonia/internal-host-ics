@@ -1,3 +1,6 @@
+.babilonia-list {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
+}
 .babilonia-apartment {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
 }
