@@ -1,3 +1,9 @@
+.babilonia-facebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.babilonia-google {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
 .babilonia-list {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
 }

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?dmzf1g');
-  src:  url('fonts/babilonia-icon.eot?dmzf1g#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?dmzf1g') format('truetype'),
-    url('fonts/babilonia-icon.woff?dmzf1g') format('woff'),
-    url('fonts/babilonia-icon.svg?dmzf1g#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?rqwwoq');
+  src:  url('fonts/babilonia-icon.eot?rqwwoq#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?rqwwoq') format('truetype'),
+    url('fonts/babilonia-icon.woff?rqwwoq') format('woff'),
+    url('fonts/babilonia-icon.svg?rqwwoq#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-facebook:before {
+  content: "\e92a";
+}
+.babilonia-google:before {
+  content: "\e92b";
+}
 .babilonia-list:before {
   content: "\e929";
 }
