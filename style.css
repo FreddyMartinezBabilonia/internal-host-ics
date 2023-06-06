@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?rqwwoq');
-  src:  url('fonts/babilonia-icon.eot?rqwwoq#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?rqwwoq') format('truetype'),
-    url('fonts/babilonia-icon.woff?rqwwoq') format('woff'),
-    url('fonts/babilonia-icon.svg?rqwwoq#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?ehf15a');
+  src:  url('fonts/babilonia-icon.eot?ehf15a#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?ehf15a') format('truetype'),
+    url('fonts/babilonia-icon.woff?ehf15a') format('woff'),
+    url('fonts/babilonia-icon.svg?ehf15a#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,108 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-comment:before {
+  content: "\e94d";
+}
+.babilonia-ordering:before {
+  content: "\e94c";
+}
+.babilonia-angle-left:before {
+  content: "\e92e";
+}
+.babilonia-angle-right:before {
+  content: "\e92f";
+}
+.babilonia-area-solid:before {
+  content: "\e930";
+}
+.babilonia-basket-shopping:before {
+  content: "\e931";
+}
+.babilonia-bell:before {
+  content: "\e932";
+}
+.babilonia-building-wheat:before {
+  content: "\e933";
+}
+.babilonia-car:before {
+  content: "\e934";
+}
+.babilonia-car-with-a-tree:before {
+  content: "\e935";
+}
+.babilonia-checked:before {
+  content: "\e936";
+}
+.babilonia-circle-dot:before {
+  content: "\e937";
+}
+.babilonia-covered-area:before {
+  content: "\e938";
+}
+.babilonia-exclamation-circle:before {
+  content: "\e939";
+}
+.babilonia-exclamation-mark:before {
+  content: "\e93a";
+}
+.babilonia-eye:before {
+  content: "\e93b";
+}
+.babilonia-gift:before {
+  content: "\e93c";
+}
+.babilonia-grid:before {
+  content: "\e93d";
+}
+.babilonia-hand-holding-dollar:before {
+  content: "\e93e";
+}
+.babilonia-hospital:before {
+  content: "\e93f";
+}
+.babilonia-location-dot:before {
+  content: "\e940";
+}
+.babilonia-price-tag:before {
+  content: "\e941";
+}
+.babilonia-restaurant:before {
+  content: "\e942";
+}
+.babilonia-right-arrow:before {
+  content: "\e943";
+}
+.babilonia-search:before {
+  content: "\e944";
+}
+.babilonia-star-regular:before {
+  content: "\e945";
+}
+.babilonia-star-solid:before {
+  content: "\e946";
+}
+.babilonia-store:before {
+  content: "\e947";
+}
+.babilonia-tags:before {
+  content: "\e948";
+}
+.babilonia-time:before {
+  content: "\e949";
+}
+.babilonia-train:before {
+  content: "\e94a";
+}
+.babilonia-tree-city:before {
+  content: "\e94b";
+}
+.babilonia-bars-horizontal:before {
+  content: "\e92d";
+}
+.babilonia-person:before {
+  content: "\e92c";
+}
 .babilonia-facebook:before {
   content: "\e92a";
 }
