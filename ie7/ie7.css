@@ -1,3 +1,27 @@
+.babilonia-plus-more {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe950;');
+}
+.babilonia-link {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe951;');
+}
+.babilonia-file-pdf {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe952;');
+}
+.babilonia-door {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe953;');
+}
+.babilonia-forum {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe954;');
+}
+.babilonia-transaction {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe955;');
+}
+.babilonia-dot {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94f;');
+}
+.babilonia-close {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94e;');
+}
 .babilonia-comment {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
 }
