@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?pjn9yo');
-  src:  url('fonts/babilonia-icon.eot?pjn9yo#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?pjn9yo') format('truetype'),
-    url('fonts/babilonia-icon.woff?pjn9yo') format('woff'),
-    url('fonts/babilonia-icon.svg?pjn9yo#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?2wr0qj');
+  src:  url('fonts/babilonia-icon.eot?2wr0qj#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?2wr0qj') format('truetype'),
+    url('fonts/babilonia-icon.woff?2wr0qj') format('woff'),
+    url('fonts/babilonia-icon.svg?2wr0qj#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,222 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-parking-visitors:before {
+  content: "\e957";
+}
+.babilonia-parking:before {
+  content: "\e958";
+}
+.babilonia-built-area:before {
+  content: "\e959";
+}
+.babilonia-square:before {
+  content: "\e95a";
+}
+.babilonia-room:before {
+  content: "\e95b";
+}
+.babilonia-apartment1:before {
+  content: "\e95c";
+}
+.babilonia-arrow-right:before {
+  content: "\e95d";
+}
+.babilonia-arrow-simple-left:before {
+  content: "\e95e";
+}
+.babilonia-arrow-simple-right:before {
+  content: "\e95f";
+}
+.babilonia-arrow-top-square:before {
+  content: "\e960";
+}
+.babilonia-bath1:before {
+  content: "\e961";
+}
+.babilonia-bed1:before {
+  content: "\e962";
+}
+.babilonia-bell1:before {
+  content: "\e963";
+}
+.babilonia-calendar:before {
+  content: "\e964";
+}
+.babilonia-camera:before {
+  content: "\e965";
+}
+.babilonia-check1:before {
+  content: "\e966";
+}
+.babilonia-checkbox-checked:before {
+  content: "\e967";
+}
+.babilonia-checkbox-unchecked:before {
+  content: "\e968";
+}
+.babilonia-checked-circle:before {
+  content: "\e969";
+}
+.babilonia-circle-cross:before {
+  content: "\e96a";
+}
+.babilonia-clock:before {
+  content: "\e96b";
+}
+.babilonia-commercial:before {
+  content: "\e96c";
+}
+.babilonia-cross-circle:before {
+  content: "\e96d";
+}
+.babilonia-edit:before {
+  content: "\e96e";
+}
+.babilonia-elevator:before {
+  content: "\e96f";
+}
+.babilonia-exclaim-triangle:before {
+  content: "\e970";
+}
+.babilonia-eye:before {
+  content: "\e971";
+}
+.babilonia-furniture:before {
+  content: "\e972";
+}
+.babilonia-garden:before {
+  content: "\e973";
+}
+.babilonia-cross:before {
+  content: "\e974";
+}
+.babilonia-gps:before {
+  content: "\e975";
+}
+.babilonia-grear:before {
+  content: "\e976";
+}
+.babilonia-grill:before {
+  content: "\e977";
+}
+.babilonia-gym:before {
+  content: "\e978";
+}
+.babilonia-heart1:before {
+  content: "\e979";
+}
+.babilonia-heart-filled:before {
+  content: "\e97a";
+}
+.babilonia-hottub:before {
+  content: "\e97b";
+}
+.babilonia-house1:before {
+  content: "\e97c";
+}
+.babilonia-land:before {
+  content: "\e97d";
+}
+.babilonia-location:before {
+  content: "\e97e";
+}
+.babilonia-map:before {
+  content: "\e97f";
+}
+.babilonia-minus:before {
+  content: "\e980";
+}
+.babilonia-office:before {
+  content: "\e981";
+}
+.babilonia-paw:before {
+  content: "\e982";
+}
+.babilonia-pencil:before {
+  content: "\e983";
+}
+.babilonia-phone:before {
+  content: "\e984";
+}
+.babilonia-pin:before {
+  content: "\e985";
+}
+.babilonia-plus:before {
+  content: "\e986";
+}
+.babilonia-pool:before {
+  content: "\e987";
+}
+.babilonia-radio-checked:before {
+  content: "\e988";
+}
+.babilonia-radio-unchecked:before {
+  content: "\e989";
+}
+.babilonia-radius:before {
+  content: "\e98a";
+}
+.babilonia-search1:before {
+  content: "\e98b";
+}
+.babilonia-select-closed:before {
+  content: "\e98c";
+}
+.babilonia-select-open:before {
+  content: "\e98d";
+}
+.babilonia-share:before {
+  content: "\e98e";
+}
+.babilonia-terrace:before {
+  content: "\e98f";
+}
+.babilonia-upload:before {
+  content: "\e990";
+}
+.babilonia-user:before {
+  content: "\e991";
+}
+.babilonia-userpick:before {
+  content: "\e992";
+}
+.babilonia-dollar-circle:before {
+  content: "\e993";
+}
+.babilonia-all-checked:before {
+  content: "\e994";
+}
+.babilonia-warehouse:before {
+  content: "\e995";
+}
+.babilonia-listing:before {
+  content: "\e996";
+}
+.babilonia-filter:before {
+  content: "\e997";
+}
+.babilonia-price:before {
+  content: "\e998";
+}
+.babilonia-property:before {
+  content: "\e999";
+}
+.babilonia-square-meter:before {
+  content: "\e99a";
+}
+.babilonia-area1:before {
+  content: "\e99b";
+}
+.babilonia-discount-tag:before {
+  content: "\e91e";
+}
+.babilonia-eye-open:before {
+  content: "\e93b";
+}
+.babilonia-eye-slash:before {
+  content: "\e956";
+}
 .babilonia-plus-more:before {
   content: "\e950";
 }
@@ -93,9 +309,6 @@
 }
 .babilonia-exclamation-mark:before {
   content: "\e93a";
-}
-.babilonia-eye:before {
-  content: "\e93b";
 }
 .babilonia-gift:before {
   content: "\e93c";
@@ -186,9 +399,6 @@
 }
 .babilonia-heart:before {
   content: "\e91d";
-}
-.babilonia-eye-open:before {
-  content: "\e91e";
 }
 .babilonia-area:before {
   content: "\e91f";
