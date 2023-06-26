@@ -1,3 +1,12 @@
+.babilonia-upload-done {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99d;');
+}
+.babilonia-google {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.babilonia-facebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
 .babilonia-parking-visitors {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe957;');
 }
@@ -336,12 +345,6 @@
 }
 .babilonia-person {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');
-}
-.babilonia-facebook {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
-}
-.babilonia-google {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
 }
 .babilonia-list {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');

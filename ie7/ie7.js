@@ -13,6 +13,9 @@
 		el.innerHTML = '<span style="font-family: \'babilonia-icon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'babilonia-upload-done': '&#xe99d;',
+		'babilonia-google': '&#xe92a;',
+		'babilonia-facebook': '&#xe92b;',
 		'babilonia-parking-visitors': '&#xe957;',
 		'babilonia-parking': '&#xe958;',
 		'babilonia-built-area': '&#xe959;',
@@ -126,8 +129,6 @@
 		'babilonia-tree-city': '&#xe94b;',
 		'babilonia-bars-horizontal': '&#xe92d;',
 		'babilonia-person': '&#xe92c;',
-		'babilonia-facebook': '&#xe92a;',
-		'babilonia-google': '&#xe92b;',
 		'babilonia-list': '&#xe929;',
 		'babilonia-apartment': '&#xe928;',
 		'babilonia-mail-open-outline': '&#xe925;',

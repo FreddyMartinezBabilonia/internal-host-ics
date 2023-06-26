@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?2wr0qj');
-  src:  url('fonts/babilonia-icon.eot?2wr0qj#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?2wr0qj') format('truetype'),
-    url('fonts/babilonia-icon.woff?2wr0qj') format('woff'),
-    url('fonts/babilonia-icon.svg?2wr0qj#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?83o5ff');
+  src:  url('fonts/babilonia-icon.eot?83o5ff#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?83o5ff') format('truetype'),
+    url('fonts/babilonia-icon.woff?83o5ff') format('woff'),
+    url('fonts/babilonia-icon.svg?83o5ff#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-upload-done:before {
+  content: "\e99d";
+}
+.babilonia-google:before {
+  content: "\e92a";
+}
+.babilonia-facebook:before {
+  content: "\e92b";
+}
 .babilonia-parking-visitors:before {
   content: "\e957";
 }
@@ -363,12 +372,6 @@
 }
 .babilonia-person:before {
   content: "\e92c";
-}
-.babilonia-facebook:before {
-  content: "\e92a";
-}
-.babilonia-google:before {
-  content: "\e92b";
 }
 .babilonia-list:before {
   content: "\e929";
