@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?83o5ff');
-  src:  url('fonts/babilonia-icon.eot?83o5ff#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?83o5ff') format('truetype'),
-    url('fonts/babilonia-icon.woff?83o5ff') format('woff'),
-    url('fonts/babilonia-icon.svg?83o5ff#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?b7esu8');
+  src:  url('fonts/babilonia-icon.eot?b7esu8#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?b7esu8') format('truetype'),
+    url('fonts/babilonia-icon.woff?b7esu8') format('woff'),
+    url('fonts/babilonia-icon.svg?b7esu8#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,36 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-spin:before {
+  content: "\e99c";
+}
+.babilonia-hospital2:before {
+  content: "\e99e";
+}
+.babilonia-market:before {
+  content: "\e99f";
+}
+.babilonia-store2:before {
+  content: "\e9a0";
+}
+.babilonia-train2:before {
+  content: "\e9a1";
+}
+.babilonia-park:before {
+  content: "\e9a2";
+}
+.babilonia-food:before {
+  content: "\e9a3";
+}
+.babilonia-discount:before {
+  content: "\e9a4";
+}
+.babilonia-gift2:before {
+  content: "\e9a5";
+}
+.babilonia-offert:before {
+  content: "\e9a6";
+}
 .babilonia-upload-done:before {
   content: "\e99d";
 }
