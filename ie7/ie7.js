@@ -13,6 +13,10 @@
 		el.innerHTML = '<span style="font-family: \'babilonia-icon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'babilonia-circle-info': '&#xe9a9;',
+		'babilonia-visit': '&#xe9aa;',
+		'babilonia-x': '&#xe9a7;',
+		'babilonia-question': '&#xe9a8;',
 		'babilonia-spin': '&#xe99c;',
 		'babilonia-hospital2': '&#xe99e;',
 		'babilonia-market': '&#xe99f;',
@@ -41,7 +45,7 @@
 		'babilonia-bell1': '&#xe963;',
 		'babilonia-calendar': '&#xe964;',
 		'babilonia-camera': '&#xe965;',
-		'babilonia-check1': '&#xe966;',
+		'babilonia-check11': '&#xe966;',
 		'babilonia-checkbox-checked': '&#xe967;',
 		'babilonia-checkbox-unchecked': '&#xe968;',
 		'babilonia-checked-circle': '&#xe969;',
@@ -166,7 +170,7 @@
 		'babilonia-mail': '&#xe910;',
 		'babilonia-phone-fill': '&#xe911;',
 		'babilonia-current-position': '&#xe90e;',
-		'babilonia-check': '&#xe909;',
+		'babilonia-check1': '&#xe909;',
 		'babilonia-star-outline': '&#xe90a;',
 		'babilonia-star': '&#xe90b;',
 		'babilonia-hand-keys': '&#xe90c;',
