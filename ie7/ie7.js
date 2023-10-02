@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'babilonia-icon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'babilonia-exclamation-solid': '&#xe9ab;',
+		'babilonia-circle-exclamation-solid': '&#xe9ac;',
 		'babilonia-circle-info': '&#xe9a9;',
 		'babilonia-visit': '&#xe9aa;',
 		'babilonia-x': '&#xe9a7;',
