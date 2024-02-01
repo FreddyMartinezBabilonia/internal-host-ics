@@ -13,6 +13,17 @@
 		el.innerHTML = '<span style="font-family: \'babilonia-icon\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'babilonia-ruler': '&#xe9b9;',
+		'babilonia-list1': '&#xe9b7;',
+		'babilonia-lens': '&#xe9b8;',
+		'babilonia-dollar': '&#xe9b4;',
+		'babilonia-tag': '&#xe9b5;',
+		'babilonia-house-center-fill': '&#xe9b6;',
+		'babilonia-home-share': '&#xe9b3;',
+		'babilonia-collections-fill': '&#xe9b2;',
+		'babilonia-clock-solid': '&#xe9b1;',
+		'babilonia-trash-solid': '&#xe9af;',
+		'babilonia-back-arrow': '&#xe9b0;',
 		'babilonia-projects': '&#xe9ae;',
 		'babilonia-asterisk': '&#xe9ad;',
 		'babilonia-exclamation-solid': '&#xe9ab;',

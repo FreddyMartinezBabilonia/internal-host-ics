@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'babilonia-icon';
-  src:  url('fonts/babilonia-icon.eot?bk6kez');
-  src:  url('fonts/babilonia-icon.eot?bk6kez#iefix') format('embedded-opentype'),
-    url('fonts/babilonia-icon.ttf?bk6kez') format('truetype'),
-    url('fonts/babilonia-icon.woff?bk6kez') format('woff'),
-    url('fonts/babilonia-icon.svg?bk6kez#babilonia-icon') format('svg');
+  src:  url('fonts/babilonia-icon.eot?m9dgus');
+  src:  url('fonts/babilonia-icon.eot?m9dgus#iefix') format('embedded-opentype'),
+    url('fonts/babilonia-icon.ttf?m9dgus') format('truetype'),
+    url('fonts/babilonia-icon.woff?m9dgus') format('woff'),
+    url('fonts/babilonia-icon.svg?m9dgus#babilonia-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,39 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.babilonia-ruler:before {
+  content: "\e9b9";
+}
+.babilonia-list1:before {
+  content: "\e9b7";
+}
+.babilonia-lens:before {
+  content: "\e9b8";
+}
+.babilonia-dollar:before {
+  content: "\e9b4";
+}
+.babilonia-tag:before {
+  content: "\e9b5";
+}
+.babilonia-house-center-fill:before {
+  content: "\e9b6";
+}
+.babilonia-home-share:before {
+  content: "\e9b3";
+}
+.babilonia-collections-fill:before {
+  content: "\e9b2";
+}
+.babilonia-clock-solid:before {
+  content: "\e9b1";
+}
+.babilonia-trash-solid:before {
+  content: "\e9af";
+}
+.babilonia-back-arrow:before {
+  content: "\e9b0";
+}
 .babilonia-projects:before {
   content: "\e9ae";
 }
